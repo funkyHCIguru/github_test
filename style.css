@@ -1,6 +1,11 @@
 .wrap {
-    color: #cdb4db;
-    font-size: 16px;
+    font-size: 50px;
     padding-top: 10px;
-    background-color: #e5989b;
+    background-color: #457b9d;
+
+}
+
+.wrap_list {
+    color: #e5989b;
+
 }
